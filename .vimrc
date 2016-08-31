@@ -38,7 +38,7 @@ set nocompatible
 filetype off
 
 " set runtime path to inc vundle and initialize
-set rtp+=~/.vim/bundle/vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 
 "this is the call to begin the vundle plugin opperation
 
